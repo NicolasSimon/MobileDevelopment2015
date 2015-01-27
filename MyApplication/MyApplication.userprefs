@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LoadScene.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BackgroundManager.js">
     <Files>
-      <File FileName="Assets\Scripts\LoadScene.js" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\BackgroundManager.js" Line="29" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
